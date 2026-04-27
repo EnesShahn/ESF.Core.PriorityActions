@@ -1,4 +1,4 @@
-namespace EnesShahn
+namespace ESF.Core.PriorityActions
 {
 	public enum PriorityLevel
 	{

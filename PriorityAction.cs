@@ -1,6 +1,6 @@
 using System;
 
-namespace EnesShahn
+namespace ESF.Core.PriorityActions
 {
     public class PriorityAction
     {
